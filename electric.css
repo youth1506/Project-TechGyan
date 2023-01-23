@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.electric{
+    display: flex;
+    flex-direction: column;
+  
+margin: auto;
+}
+.electric img{
+    width: 80vw;
+    margin: auto;
+}
+.p{
+    width: 80vw;
+    margin: auto;
+    white-space: pre-line;
+}
+h1{
+    margin: 30px 5px;
+}
+h2{
+    margin: 20px 32px;
+}
+.price{
+    width: 80vw;
+   margin: auto;
+  line-height: 30px;
+}
+.price h3{
+    text-decoration: underline;
+}
+ .p ul li{
+    list-style: circle;
+}
